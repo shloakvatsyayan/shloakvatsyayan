@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SSVF112 Playz
 - 👀 I’m interested in anything related to gaming.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on Minecraft Datapack, Minecraft Resource packs, and Minecraft Mods.
 - 📫 How to reach me my YouTube email: contactssvf112playz@gmail.com
 
