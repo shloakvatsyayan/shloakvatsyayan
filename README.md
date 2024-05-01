@@ -1,8 +1,7 @@
-- 👋 Hi, I’m SSVF112 Playz
+- 👋 Hi, I’m shloak.
 - 👀 I’m interested in anything related to gaming.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Minecraft Datapack, Minecraft Resource packs, and Minecraft Mods.
-- 📫 How to reach me my YouTube email: contactssvf112playz@gmail.com
 
 <!---
 shloakvatsyayan/shloakvatsyayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
