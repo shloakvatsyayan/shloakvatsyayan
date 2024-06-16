@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shloak.
-- 👀 I’m interested in anything related to gaming.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in anything related to gaming, but when it comes to coding I'm interested in Minecraft. For more info check this out --> [Minecraft Projects](https://github.com/Minecraft-Pyro).
+- 🌱 I’m currently learning some Java.
 - 💞️ I’m looking to collaborate on Minecraft Datapack, Minecraft Resource packs, and Minecraft Mods.
 
 <!---
