@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shloak.
-- 👀 [Bonk Network](https://github.com/bonkmc/)
+- 👀 [BonkMC](https://github.com/bonkmc/)
 
 <!---
 shloakvatsyayan/shloakvatsyayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
