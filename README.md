@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shloak, or I'm better known as Pyro.
 - 📌 I live in the US 🇺🇸
 - Develop for [BonkMC](https://github.com/bonkmc/)
-- Develop for [BonkMC](https://github.com/mcduels/)
+- Develop for [MCDuels](https://github.com/mcduels/)
