@@ -1,7 +1,4 @@
-- 👋 Hi, I’m shloak.
-- 👀 [BonkMC](https://github.com/bonkmc/)
-
-<!---
-shloakvatsyayan/shloakvatsyayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Shloak, or I'm better known as Pyro.
+- 📌 I live in the US 🇺🇸
+- Develop for [BonkMC](https://github.com/bonkmc/)
+- Develop for [BonkMC](https://github.com/mcduels/)
