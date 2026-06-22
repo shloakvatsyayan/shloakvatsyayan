@@ -1,8 +1,8 @@
-### 👋 Hey, I'm Shloak — known as **Pyro**.
+### 👋 Hey, I'm Shloak — better known as **Pyro**.
 
 - 🌍 Based in the US 🇺🇸
-- 🎮 Building and running Minecraft server networks: **[BonkMC](https://github.com/bonkmc/)** & **[MCDuels](https://github.com/mcduels/)**
-- 🔬 Co-author on a published IEEE paper applying ML to drug discovery
+- 🎮 Developing for Minecraft server networks: **[BonkMC](https://github.com/bonkmc/)** & **[MCDuels](https://github.com/mcduels/)**
+- 🔬 Author on a published IEEE paper applying ML to drug discovery
 
 #### Currently working on
 - ⚔️ **BonkMC** — cracked Minecraft server network, ~6K Discord members and 100 average player count.
